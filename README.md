@@ -1,8 +1,8 @@
-********************************************************An Embedded systems project***********************************************
+******************An Embedded systems project******************
 
-Board Name : STM32F4-Discovery board
-Device name : STM32F407VG
-Programming Language : Embedded C++
+*Board Name* : STM32F4-Discovery board
+*Device name* : STM32F407VG
+*Programming Language* : Embedded C++
 
 The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT Embedded.
       
