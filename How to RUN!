@@ -1,0 +1,6 @@
+To run the code; you have to install Eclipse IDE then install requirements for the board that we are using ... you can follow this video https://www.youtube.com/watch?v=uCKxDT7-3qE&list=PLfgGeadDOfmjdfHxyHQnavytIhdRk74Mp
+make sure that the blinky code runs well after installations.
+Then make sure that the demo code attached runs well ... you can follow this video https://www.youtube.com/watch?v=t2qpXcfV3Co
+Then copy the code in attached main file in the main in the demo project then build & run.
+you may use different version of Eclipse so be ware of the changes.
+***note that output takes time to be printed (maybe 10 minutes).
